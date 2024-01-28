@@ -1,0 +1,70 @@
+Name:         hafsa
+Password:     324
+___________________________________
+Name:         hafsa
+Password:     243
+___________________________________
+Name:         ewr
+Password:     43
+___________________________________
+Name:         hafsa
+Password:     blinkblink
+___________________________________
+Name:         hamna
+Password:     532
+___________________________________
+Name:         mahnoor
+Password:     321
+___________________________________
+Name:         mano123
+Password:     kadd
+Usertype:     Customer
+___________________________________
+Name:         hafsa
+Password:     432
+Usertype:     Administrator
+___________________________________
+Name:         HAFSA
+Password:     3324
+Usertype:     Administrator
+___________________________________
+Name:         hafsa
+Password:     sad
+Usertype:     Administrator
+___________________________________
+Name:         HAFSA
+Password:     FDS
+Usertype:     Administrator
+___________________________________
+Name:         FSD
+Password:     FSD
+Usertype:     Administrator
+___________________________________
+Name:         DFS
+Password:     432
+Usertype:     Administrator
+___________________________________
+Name:         SAF
+Password:     SDA
+Usertype:     Administrator
+___________________________________
+Name:         sad
+Password:     das
+Usertype:     Administrator
+___________________________________
+Name:         mahnoor
+Password:     admin
+Usertype:     Administrator
+___________________________________
+Name:         mahnoor
+Password:     admin
+Usertype:     Administrator
+___________________________________
+Name:         maheen
+Password:     man
+Usertype:     Administrator
+___________________________________
+Name:         amna
+Password:     usman
+Usertype:     Administrator
+___________________________________

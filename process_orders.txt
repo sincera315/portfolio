@@ -1,0 +1,43 @@
+Order Status: True
+Item 1: Chow Mein - $360
+Item 2: Afghani Burger - $180
+Total Price: $540
+------------------------------------------
+Order Status: True
+Item 1: Afghani Burger - $180
+Total Price: $180
+------------------------------------------
+Order Status: True
+Item 1: Afghani Burger - $180
+Total Price: $180
+------------------------------------------
+Order Status: True
+Item 1: Afghani Burger - $180
+Total Price: $180
+------------------------------------------
+Order Status: True
+Item 1: Afghani Burger - $180
+Total Price: $180
+------------------------------------------
+Order Status: True
+Item 1: Chow Mein - $360
+Item 2: Loaded Fries - $150
+Total Price: $510
+------------------------------------------
+Order ID: 1
+Order Status: True
+Item 1: Loaded Fries - $150
+Total Price: $150
+------------------------------------------
+Order ID: 1
+Order Status: True
+Item 1: Afghani Burger - $180
+Item 2: Pizza - $800
+Total Price: $980
+------------------------------------------
+Order ID: 1
+Order Status: True
+Item 1: Chow Mein - $360
+Item 2: Loaded Fries - $150
+Total Price: $510
+------------------------------------------
